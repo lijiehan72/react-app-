@@ -1,3 +1,10 @@
+
+这个项目是将create-react-app稍微改造
+去除了代码检查 eslint
+去除了代码地图 sourceMap 减少build 体积，提升npm start ,npm run build 速度
+url美化 ，去#号
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
